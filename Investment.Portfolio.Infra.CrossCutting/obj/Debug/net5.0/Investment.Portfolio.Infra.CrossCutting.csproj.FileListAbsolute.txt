@@ -1,0 +1,17 @@
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\obj\Debug\net5.0\Investment.Portfolio.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\obj\Debug\net5.0\Investment.Portfolio.Infra.CrossCutting.AssemblyInfoInputs.cache
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\obj\Debug\net5.0\Investment.Portfolio.Infra.CrossCutting.AssemblyInfo.cs
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\obj\Debug\net5.0\Investment.Portfolio.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\bin\Debug\net5.0\Investment.Portfolio.Infra.CrossCutting.deps.json
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\bin\Debug\net5.0\Investment.Portfolio.Infra.CrossCutting.dll
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\bin\Debug\net5.0\ref\Investment.Portfolio.Infra.CrossCutting.dll
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\bin\Debug\net5.0\Investment.Portfolio.Infra.CrossCutting.pdb
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\bin\Debug\net5.0\Investment.Portfolio.Domain.dll
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\bin\Debug\net5.0\Investment.Portfolio.Infra.Data.dll
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\bin\Debug\net5.0\Investment.Portfolio.Infra.Data.pdb
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\bin\Debug\net5.0\Investment.Portfolio.Domain.pdb
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\obj\Debug\net5.0\Investment.Portfolio.Infra.CrossCutting.csproj.AssemblyReference.cache
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\obj\Debug\net5.0\Investment.Portfolio.Infra.CrossCutting.csproj.CopyComplete
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\obj\Debug\net5.0\Investment.Portfolio.Infra.CrossCutting.dll
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\obj\Debug\net5.0\ref\Investment.Portfolio.Infra.CrossCutting.dll
+D:\dev\Repositorios\InvestmentPortfolio\Investment.Portfolio.Infra.CrossCutting\obj\Debug\net5.0\Investment.Portfolio.Infra.CrossCutting.pdb
